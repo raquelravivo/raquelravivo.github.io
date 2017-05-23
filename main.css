@@ -1,6 +1,7 @@
 header {
     margin-top: 400px;
 }
+
 header #name {
   font-family: 'europa', sans-serif;
   text-transform: lowercase;

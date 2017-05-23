@@ -1,0 +1,39 @@
+#wao {
+    text-align: center;
+    margin: 0 auto;
+    margin-top: -17%;
+    z-index: 1000;
+}
+
+#wao h1 {
+    font-family: 'europa', sans-serif;
+    font-size: 80px;
+    color: #a4ced0;
+    text-transform: uppercase;
+    z-index: 1000;
+}
+
+#wao p {
+    margin-top: -12%;
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+}
+
+.banner {
+    width: 110%;
+    margin-left: -2%;
+    margin-top: -2%;
+    height: 20vmax;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.banner img {
+    width: 110%;
+    margin-left: -2%;
+    filter: blur(5px);
+    bottom: 10%;
+    margin-top: -30%;
+}
