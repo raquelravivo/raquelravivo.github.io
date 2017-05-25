@@ -1,0 +1,95 @@
+#wao {
+    text-align: center;
+    margin: 0 auto;
+}
+
+#wao h1 {
+    font-family: 'europa', sans-serif;
+    font-size: 80px;
+    color: #a4ced0;
+    text-transform: uppercase;
+    margin-top: 10px;
+}
+
+#wao p {
+    font-family: 'Slabo 27px', serif;
+    font-size: 18px;
+    margin-top: -75px;
+}
+
+.banner {
+    width: 110%;
+    margin-left: -2%;
+    margin-top: -2%;
+    height: 16vmax;
+    top: 0;
+    left: 0;
+    overflow: hidden;
+    z-index: -1;
+}
+
+.banner img {
+    width: 110%;
+    margin-left: -2%;
+    filter: blur(5px);
+    bottom: 10%;
+    margin-top: -30%;
+}
+
+.topics {
+    font-family: 'europa', sans-serif;
+    font-size: 60px;
+    color: #a4ced0;
+    width: 50%;
+    margin: 0px auto;
+    text-align: left;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+.blocks {
+    font-family: 'Slabo 27px', serif;
+    font-size: 22px;
+    color: #808080;
+    width: 50%;
+    margin: 0 auto;
+    text-align: left;
+    line-height: 150%;
+}
+
+#back {
+    position: fixed;
+    top: 30px;
+    height: 40px;
+}
+
+#app {
+    margin: 0 auto;
+    text-align: center;
+    margin-top:60px;
+}
+
+.bottom-nav {
+    margin-top: 100px;
+    background: #ccc;
+    height: 80px;
+}
+
+#item {
+    font-family: 'europa', sans-serif;
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-weight: 600;
+    margin: auto 20px;
+}
+
+.links {
+    text-align: center;
+    padding-top: 25px
+}
+
+/*
+#item:hover {
+    bottom: 20px;
+}*/

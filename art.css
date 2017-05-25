@@ -1,17 +1,17 @@
-#wao {
+#title {
     text-align: center;
     margin: 0 auto;
 }
 
-#wao h1 {
+#title h1 {
     font-family: 'europa', sans-serif;
     font-size: 80px;
-    color: #a4ced0;
+    color: #c52740;
     text-transform: uppercase;
     margin-top: 10px;
 }
 
-#wao p {
+#title p {
     font-family: 'Slabo 27px', serif;
     font-size: 18px;
     margin-top: -75px;
@@ -25,49 +25,20 @@
     top: 0;
     left: 0;
     overflow: hidden;
-    z-index: -1;
 }
 
 .banner img {
     width: 110%;
     margin-left: -2%;
-    filter: blur(5px);
+    filter: blur(3px);
     bottom: 10%;
-    margin-top: -30%;
-}
-
-.topics {
-    font-family: 'europa', sans-serif;
-    font-size: 60px;
-    color: #a4ced0;
-    width: 50%;
-    margin: 0px auto;
-    text-align: left;
-    margin-top: 50px;
-    margin-bottom: 20px;
-}
-
-.blocks {
-    font-family: 'Slabo 27px', serif;
-    font-size: 22px;
-    color: #808080;
-    width: 50%;
-    margin: 0 auto;
-    text-align: left;
-    line-height: 150%;
+    margin-top: -12%;
 }
 
 #back {
-    color: #808080;
     position: fixed;
-    margin-top: -300px;
-    font-size: 30px;
-}
-
-#app {
-    margin: 0 auto;
-    text-align: center;
-    margin-top:60px;
+    top: 30px;
+    height: 40px;
 }
 
 .bottom-nav {
@@ -82,11 +53,23 @@
     color: black;
     font-size: 20px;
     font-weight: 600;
-    margin-right: 100px;
-    margin-left: 100px;
+    margin: auto 20px;
 }
 
-.links{
+.links {
     text-align: center;
-    vertical-align: middle;
+    padding-top: 25px
+}
+
+#art-piece {
+    width: 500px;
+    margin: 100px;
+}
+
+.art {
+    text-align: center;
+}
+
+a {
+    text-decoration: none;
 }
