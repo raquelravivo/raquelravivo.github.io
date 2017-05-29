@@ -97,3 +97,12 @@
 a {
     text-decoration: none;
 }
+
+.description {
+    font-family: 'Slabo 27px', serif;
+    text-align: center;
+    color: #808080;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: -80px;
+}
